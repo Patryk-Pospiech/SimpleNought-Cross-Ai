@@ -1,3 +1,4 @@
+#made and published by Patryk.P 
 import copy
 import random
 import sys
